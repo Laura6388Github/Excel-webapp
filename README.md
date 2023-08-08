@@ -1,6 +1,6 @@
 # Excel-webapp
-# Frontend: React
-# npm install
+Frontend: React
+npm install
 # npm run start
 #
 # Backend: Node
