@@ -1,11 +1,11 @@
 # Excel-webapp
-Frontend: React
-npm install
-# npm run start
-#
-# Backend: Node
-# npm install
-# npm run dev
-#
-# DB: MySQL
-# /backend/excel-price.sql
+Frontend: React \n
+npm install \n
+npm run start \n
+\n
+Backend: Node \n
+npm install \n
+npm run dev \n
+\n
+DB: MySQL \n
+/backend/excel-price.sql
